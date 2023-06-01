@@ -9,7 +9,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 </p>
 
 <center>
-<img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" height="500" alt="gif">
+<img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" alt="gif" height="500">
 </center>
                                                                                                                                  
 <p align="center">
