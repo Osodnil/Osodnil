@@ -7,7 +7,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 </p>
 
 <a>
-<p style="text-align:center;"><img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif"></p>
+<p style="text-align:center;"><img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" height="200"></p>
 </a>
                                                                                                                                  
 <p align="center">
