@@ -9,10 +9,10 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 <center><img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" height="500"></center>
                                                                                                                                  
 <p align="center">
-<br> Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
+Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
 </p>
 
-<p>Sou novo por aqui, mas vou deixar essa estatística logo abaixo para que seja possível analisar o meu desenvolvimento ao longo do tempo </p>
+<p>Sou novo por aqui, mas vou deixar minhas estatísticas logo abaixo para que seja possível analisar o meu desenvolvimento ao longo do tempo </p>
 
 <div>
 <a href="https://github.com/Osodnil">
