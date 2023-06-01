@@ -19,9 +19,11 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 <p>Sou novo por aqui, mas vou deixar minhas estatísticas logo abaixo para que seja possível analisar o meu desenvolvimento ao longo do tempo </p>
 
 <div>
+<p alignt="center">
 <a href="https://github.com/Osodnil">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osodnil&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Osodnil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
 </div>
 
 <p align="center">
