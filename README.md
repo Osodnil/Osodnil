@@ -7,7 +7,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 </p>
 
 <a href="https://tenor.com/pt-BR/">
-<img src="https://tenor.com/pt-BR/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173">
+<img src="https://tenor.com/pt-BR/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173.gif">
 </a>
 
 <p align="center">
@@ -23,5 +23,5 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 </div>
 
 <p align="center">
-Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
+<br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
 </p>
