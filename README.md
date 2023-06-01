@@ -6,7 +6,9 @@ Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos,
 Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL
 </p>
 
-<a href="https://tenor.com/pt-BR/view/cat-grin-smile-smirk-awkward-gif-22382508](https://tenor.com/pt-BR/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173">
+<a href="https://tenor.com/pt-BR/">
+<img src="https://tenor.com/pt-BR/view/rick-roll-rick-ashley-never-gonna-give-you-up-gif-22113173">
+</a>
 
 <p align="center">
 Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
