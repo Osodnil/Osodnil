@@ -18,7 +18,6 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osodnil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  <style>
-    h1 {
-      color: red;
-    }
+h1 {
+  color: red;
+  }
