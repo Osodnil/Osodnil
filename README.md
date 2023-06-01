@@ -9,6 +9,6 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 </p>
 
 <a href="https://tenor.com/pt-BR/view/cat-grin-smile-smirk-awkward-gif-22382508">
-<img src="![image](https://github.com/Osodnil/HenriqueLindoso/assets/135246209/bad13446-f8a9-4f51-925f-5820988437ce)">
+<img src="cat-grin.gif">
 </a>
 
