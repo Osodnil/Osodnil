@@ -1,5 +1,7 @@
+<html>
 <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
 
+<body>
 <p align="center"> 
 Atualmente estou estudando Python! 🐍 <br> <br>
 Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco poder receber ajuda neles <br>
@@ -23,3 +25,6 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 <p align="center">
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
 </p>
+
+</body>
+</html>
