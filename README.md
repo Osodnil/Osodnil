@@ -7,7 +7,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
 </p>
 
-<p>Sou novo por aqui, mas vou deixar essa estatística logo abaixo para que seja possível analisar o meu desenvolvimento desde o início </p>
+<p>Sou novo por aqui, mas vou deixar essa estatística logo abaixo para que seja possível analisar o meu desenvolvimento ao longo do tempo </p>
 
 <a href="https://tenor.com/pt-BR/view/cat-grin-smile-smirk-awkward-gif-22382508">
 <img src="cat-grin.gif">
