@@ -3,7 +3,7 @@
 <p align="center"> 
 Atualmente estou estudando Administração na Universidade de São Paulo <br>
 Estou aprendendo python, tendo apenas uma pequena base como bagagem <br>
-Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco aprender e receber ajuda neles <br>
+Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco poder receber ajuda neles <br>
 Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL <br>
 Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
 </p>
