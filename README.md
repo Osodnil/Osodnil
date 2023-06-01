@@ -3,7 +3,9 @@
 <p align="center"> 
 Atualmente estou estudando Python! 🐍 <br> <br>
 Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco poder receber ajuda neles <br>
-Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL <br> <br>
+Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL
+</p>
+<p align="center">
 Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
 </p>
 
@@ -18,7 +20,3 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 <a href="https://tenor.com/pt-BR/view/cat-grin-smile-smirk-awkward-gif-22382508">
 <img src="cat-grin.gif">
 </a>
-
-<p align="center">
-Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
-</p>
