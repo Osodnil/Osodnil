@@ -1,10 +1,9 @@
 <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
 
 <p align="center"> 
-Atualmente estou estudando Administração na Universidade de São Paulo <br>
-Estou aprendendo python, tendo apenas uma pequena base como bagagem <br>
+Atualmente estou estudando Python! <br> <br>
 Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco poder receber ajuda neles <br>
-Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL <br>
+Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL <br> <br>
 Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
 </p>
 
