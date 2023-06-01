@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
+<h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
 
 <p align="center">
 Atualmente estou estudando Administração na Universidade de São Paulo
@@ -13,7 +13,7 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 </a>
 
 <div>
-<a href="https://github.com/Osodnil">
+<a href="https://github.com/Osodnil" align="right">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osodnil&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Osodnil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
