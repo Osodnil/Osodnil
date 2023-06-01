@@ -1,4 +1,4 @@
-<h1 align="center" font color="red"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
+<h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
 
 <p align="center">
 Atualmente estou estudando Administração na Universidade de São Paulo
@@ -19,4 +19,6 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 </div>
 
   <style>
-    
+    h1 {
+      color: red;
+    }
