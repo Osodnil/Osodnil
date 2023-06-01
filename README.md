@@ -16,6 +16,6 @@ Sou novo por aqui, mas vou deixar essa estatística logo abaixo para que seja po
 
 <div>
 <a href="https://github.com/Osodnil">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osodnil&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osodnil&layout=compact&langs_count=7&theme=dracula" &nbsp/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Osodnil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
