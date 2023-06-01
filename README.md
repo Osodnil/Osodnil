@@ -11,7 +11,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 </a>
 
 <p align="center">
-Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
+<br> Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
 </p>
 
 <p>Sou novo por aqui, mas vou deixar essa estatística logo abaixo para que seja possível analisar o meu desenvolvimento ao longo do tempo </p>
