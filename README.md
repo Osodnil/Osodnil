@@ -9,11 +9,3 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 </p>
 
 <a href="https://tenor.com/pt-BR/view/cat-grin-smile-smirk-awkward-gif-22382508">
-
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
