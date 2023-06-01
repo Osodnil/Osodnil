@@ -8,7 +8,9 @@ Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos,
 Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL
 </p>
 
-<center><img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" height="500"></center>
+<center>
+<img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" height="500" alt="gif">
+</center>
                                                                                                                                  
 <p align="center">
 Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível
