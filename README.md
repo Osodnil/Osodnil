@@ -4,7 +4,7 @@
 Estou aprendendo python, tendo apenas uma pequena base como bagagem 
 Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco aprender e receber ajuda neles 
 Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL
-Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível/>
+Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar alguma coisa também, estou sempre disponível/p>
 
 <p>Sou novo por aqui, mas vou deixar essa estatística logo abaixo para que seja possível analisar o meu desenvolvimento desde o início </p>
 
