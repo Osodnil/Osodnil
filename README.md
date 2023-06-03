@@ -28,5 +28,7 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
 </p>
 
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  
 </body>
 </html>
