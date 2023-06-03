@@ -24,11 +24,12 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Osodnil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<a href="https://github.com/Osodnil">
 <p align="center">
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
-![Snake animation](https://github.com/Osodnil/Osodnil/blob/output/github-contribution-grid-snake.svg)
 </p>
+  
+<a href="https://github.com/Osodnil">
+![Snake animation](https://github.com/Osodnil/Osodnil/blob/output/github-contribution-grid-snake.svg)
 </a>
   
 </body>
