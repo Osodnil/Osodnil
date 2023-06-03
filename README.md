@@ -26,7 +26,7 @@ Para entrar em contato comigo pode me chamar pelo Discord! Se quiser jogar algum
 
 <p align="center">
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
-![Snake animation](https://github.com/Osodnil/Osodnil/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HenriqueLindoso/HenriqueLindoso/blob/output/github-contribution-grid-snake.svg)
 </p>
   
 </body>
