@@ -12,7 +12,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 <img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" alt="gif" height="500">
 </p>
 
-<p>Sou novo por aqui mas pretendo me desenvoler ao longo do tempo </p>
+<p align="center">Sou novo por aqui mas pretendo me desenvoler ao longo do tempo </p>
 
 <div align="center">
 <a href="https://github.com/Osodnil">
