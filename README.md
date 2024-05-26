@@ -3,7 +3,7 @@
 
 <body>
 <p align="center"> 
-Atualmente estou estudando Python! 🐍 <br> <br>
+Atualmente estou estudando Python com foco em Machine Learning! 🐍🤖 <br> <br>
 Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco poder receber ajuda neles <br>
 Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL
 </p>
