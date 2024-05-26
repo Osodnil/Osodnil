@@ -24,7 +24,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
 </p>
 
-<img src="https://raw.githubusercontent.com/Osodnil/Osodnil/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 </body>
 </html>
