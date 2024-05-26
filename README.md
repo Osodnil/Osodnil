@@ -25,6 +25,6 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 </p>
 
 <img src="https://raw.githubusercontent.com/Osodnil/Osodnil/output/snake.svg" alt="Snake animation" />
-  
+
 </body>
 </html>
