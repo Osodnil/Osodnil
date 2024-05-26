@@ -23,6 +23,8 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 <p align="center">
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
 </p>
+
+<img src="https://raw.githubusercontent.com/Osodnil/Osodnil/output/snake.svg" alt="Snake animation" />
   
 </body>
 </html>
