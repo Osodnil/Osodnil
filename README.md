@@ -20,7 +20,7 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Osodnil&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake animation](https://github.com/Osodnil/Osodnil/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/Osodnil/Osodnil/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
