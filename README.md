@@ -21,7 +21,7 @@ Posso dar apoio também em algumas questões envolvendo algumas outras linguagen
 <img src="https://raw.githubusercontent.com/Osodnil/Osodnil/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
-<br> Por enquanto é isso que mais domino, mas não é por onde pretendo me satisfazer
+<br> Por enquanto isso é tudo o que tenho a oferecer, mas não estou satisfeito ainda <br>
 <br> Alan Turing uma vez disse, "nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer"
 </p>
 
