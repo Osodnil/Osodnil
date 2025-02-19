@@ -3,7 +3,7 @@
 
 <body>
 <p align="center"> 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fpixel-art-city-vectors&psig=AOvVaw1UPhMw9qHFUYz-AiNjOwUN&ust=1740094598691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiK19Hz0IsDFQAAAAAdAAAAABAj" height="150">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fpixel-art-city-vectors&psig=AOvVaw1UPhMw9qHFUYz-AiNjOwUN&ust=1740094598691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiK19Hz0IsDFQAAAAAdAAAAABAj" height="150"/>
 Atualmente estou estudando Python com foco em Machine Learning! 🐍🤖 <br> <br>
 Procuro auxiliar em tópicos envolvendo bibliotecas de machine learning, como Scikit-learn, bem como com modelos de aprendizagem supervisionados ou não supervisionados <br>
 <br> Posso dar apoio também em algumas questões envolvendo algumas outras linguagens, como HTML e CSS, ou então com SQL
