@@ -9,10 +9,6 @@ Procuro auxiliar em tópicos envolvendo bibliotecas de machine learning, como Sc
 <br> Posso dar apoio também em algumas questões envolvendo algumas outras linguagens, como HTML e CSS, ou então com SQL
 </p>
 
-<p align="center">
-<img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" alt="gif" height="500">
-</p>
-
 <div align="center">
 <a href="https://github.com/Osodnil">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osodnil&layout=compact&langs_count=7&theme=dracula"/>
