@@ -1,12 +1,12 @@
 ![image](https://github.com/user-attachments/assets/49a080ee-f8dd-4ee2-8681-3b0268cbad69)<html>
 <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
+<a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fpixel-art-city-vectors&psig=AOvVaw1UPhMw9qHFUYz-AiNjOwUN&ust=1740094598691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiK19Hz0IsDFQAAAAAdAAAAABAj" height="200"/></a><br>
 
 <body>
 <p align="center"> 
 Atualmente estou estudando Python com foco em Machine Learning! 🐍🤖 <br> <br>
 Procuro auxiliar em tópicos envolvendo bibliotecas de machine learning, como Scikit-learn, bem como com modelos de aprendizagem supervisionados ou não supervisionados <br>
 <br> Posso dar apoio também em algumas questões envolvendo algumas outras linguagens, como HTML e CSS, ou então com SQL <br> <br>
-<a><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vectors%2Fpixel-art-city-vectors&psig=AOvVaw1UPhMw9qHFUYz-AiNjOwUN&ust=1740094598691000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiK19Hz0IsDFQAAAAAdAAAAABAj" height="200"/></a><br>
 </p>
 
 <div align="center">
