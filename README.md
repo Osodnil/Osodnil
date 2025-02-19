@@ -4,15 +4,13 @@
 <body>
 <p align="center"> 
 Atualmente estou estudando Python com foco em Machine Learning! 🐍🤖 <br> <br>
-Procuro auxiliar com o que eu puder com base no que eu aprender em meus estudos, e da mesma forma, busco poder receber ajuda neles <br>
-Posso dar auxilio também em algumas questões envolvendo outras linguagens, como HTML e CSS ou então com SQL
+Procuro auxiliar em tópicos envolvendo bibliotecas de machine learning, como Scikit-learn, bem como com modelos de aprendizagem supervisionados ou não supervisionados <br>
+Posso dar apoio também em algumas questões envolvendo algumas outras linguagens, como HTML e CSS, ou então com SQL
 </p>
 
 <p align="center">
 <img src="https://media.tenor.com/yheo1GGu3FwAAAAd/rick-roll-rick-ashley.gif" alt="gif" height="500">
 </p>
-
-<p align="center">Sou novo por aqui mas pretendo me desenvoler ao longo do tempo </p>
 
 <div align="center">
 <a href="https://github.com/Osodnil">
@@ -23,7 +21,8 @@ Posso dar auxilio também em algumas questões envolvendo outras linguagens, com
 <img src="https://raw.githubusercontent.com/Osodnil/Osodnil/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
-<br> Por enquanto é isso que eu tenho a oferecer! Não é muito, mas eu pretendo que se torne com o tempo 😎
+<br> Por enquanto é isso que mais domino, mas não é por onde pretendo me satisfazer
+<br> Alan Turing uma vez disse, "nós só podemos ver um pouco do futuro, mas o suficiente para perceber que há muito a fazer"
 </p>
 
 </body>
