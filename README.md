@@ -2,10 +2,6 @@
 <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
 
 <body>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/01f615f8-1185-4939-85f4-9dff032baf58" width="200px">
-  <img src="https://github.com/user-attachments/assets/49a080ee-f8dd-4ee2-8681-3b0268cbad69" width="200px">
-</p>
 
 <p align="center"> 
 Atualmente estou estudando Python com foco em Machine Learning! 🐍🤖 <br><br>
