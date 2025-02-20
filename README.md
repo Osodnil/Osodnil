@@ -2,7 +2,6 @@
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
-  <script src="https://kit.fontawesome.com/YOUR_KIT_CODE.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
