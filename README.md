@@ -1,5 +1,8 @@
 <html>
-<h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
+<head>
+  <script src="https://kit.fontawesome.com/YOUR_KIT_CODE.js" crossorigin="anonymous"></script>
+  <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
+</head>
 
 <body>
 
