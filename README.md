@@ -7,7 +7,7 @@
 Atualmente estou estudando Python com foco em Machine Learning! 🐍🤖 <br><br>
 <a><img src="https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif"/></a>
 Procuro auxiliar em tópicos envolvendo bibliotecas de machine learning, como Scikit-learn, bem como com modelos de aprendizagem supervisionados ou não supervisionados <br>
-<br> Posso dar apoio também em algumas questões envolvendo algumas outras linguagens, como HTML e CSS, ou então com SQL <br><br>
+<br> Posso dar apoio também em questões envolvendo algumas outras linguagens, como HTML e CSS, ou então SQL <br><br>
 </p>
 
 <div align="center">
