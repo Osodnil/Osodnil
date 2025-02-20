@@ -1,7 +1,7 @@
 <html>
 <head>
-  <script src="https://kit.fontawesome.com/YOUR_KIT_CODE.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <script src="https://kit.fontawesome.com/YOUR_KIT_CODE.js" crossorigin="anonymous"></script>
   <h1 align="center"> Olá, me chamo Henrique! Bem vindo ao meu perfil! </h1>
 </head>
 
