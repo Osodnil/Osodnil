@@ -1,7 +1,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Perfil de Henrique</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   </head>
   <body>
